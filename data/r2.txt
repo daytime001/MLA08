@@ -1,0 +1,6 @@
+altair==4.2.0
+pydantic==1.10.2
+scikit-learn==0.23.2
+openpyxl
+pandas==1.5.1
+pandas-profiling==3.4.0
